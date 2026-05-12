@@ -1,5 +1,5 @@
 {
-  "name": "@scott/bos-base64",
+  "name": "ts-bos-base64",
   "version": "1.0.0",
   "description": "Pure-TypeScript port of BabyOS algo_base64.c — RFC 4648 Base64 encoder/decoder.",
   "type": "module",
